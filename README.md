@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lostbxi
+- 👀 I’m interested in learning more and more
+- 🌱 I’m currently learning ts
+- 💞️ I’m looking to collaborate on myself
+- 📫 How to reach me devs
